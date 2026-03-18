@@ -193,7 +193,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pnnerm1Xjht20mZpmRrQ-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;启动应急预案&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-92" vertex="1">
-          <mxGeometry x="163" y="22.75" width="252" height="83.63" as="geometry" />
+          <mxGeometry x="163" y="22.75" width="207" height="83.63" as="geometry" />
         </mxCell>
         <mxCell id="pnnerm1Xjht20mZpmRrQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-92" source="pnnerm1Xjht20mZpmRrQ-14" target="Erox3AAgmCAtqzrw72V9-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -275,7 +275,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="955" y="-840" />
-              <mxPoint x="368" y="-840" />
+              <mxPoint x="350" y="-840" />
+              <mxPoint x="350" y="-757" />
             </Array>
           </mxGeometry>
         </mxCell>

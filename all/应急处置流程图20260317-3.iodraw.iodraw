@@ -31,8 +31,8 @@
         <mxCell id="G9bafkq5CbsU2aFMCbta-58" value="&lt;font size=&quot;3&quot;&gt;改进措施与闭环管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-91">
           <mxGeometry x="575" y="85" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-60" value="&lt;font size=&quot;3&quot;&gt;事件调查评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-91">
-          <mxGeometry x="796" y="85" width="141" height="60" as="geometry" />
+        <mxCell id="G9bafkq5CbsU2aFMCbta-60" value="&lt;font size=&quot;3&quot;&gt;完善制度&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-91">
+          <mxGeometry x="796" y="85" width="141" height="165" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-105" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="-1040" width="1220" height="250" as="geometry" />

@@ -236,7 +236,7 @@
         <mxCell id="pnnerm1Xjht20mZpmRrQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-105" source="pnnerm1Xjht20mZpmRrQ-3" target="pnnerm1Xjht20mZpmRrQ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pnnerm1Xjht20mZpmRrQ-3" value="及时发现数据异常情况" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
+        <mxCell id="pnnerm1Xjht20mZpmRrQ-3" value="发现异常" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
           <mxGeometry x="162" y="63.5" width="230" height="83.63" as="geometry" />
         </mxCell>
         <mxCell id="pnnerm1Xjht20mZpmRrQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-105" source="pnnerm1Xjht20mZpmRrQ-4" target="pnnerm1Xjht20mZpmRrQ-6" edge="1">

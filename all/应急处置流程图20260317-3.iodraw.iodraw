@@ -47,7 +47,7 @@
           <mxGeometry x="674" y="85" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-9" value="&lt;font size=&quot;3&quot;&gt;是否数据安全事件&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-105">
-          <mxGeometry x="948" y="75" width="80" height="80" as="geometry" />
+          <mxGeometry x="940" y="52.5" width="120" height="125" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-1" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="79" y="-790" width="1220" height="230" as="geometry" />

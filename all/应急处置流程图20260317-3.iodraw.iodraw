@@ -118,13 +118,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-32" value="&lt;font size=&quot;3&quot;&gt;初步研判&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;（确定事件级别）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-23">
-          <mxGeometry x="611" y="85" width="150" height="75" as="geometry" />
+          <mxGeometry x="611" y="80" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G9bafkq5CbsU2aFMCbta-23" source="G9bafkq5CbsU2aFMCbta-34" target="G9bafkq5CbsU2aFMCbta-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实施先期处置&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;（防止事态扩大）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-23">
-          <mxGeometry x="821" y="85" width="141" height="60" as="geometry" />
+          <mxGeometry x="821" y="70" width="141" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是否需要上报&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;人民银行&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-23">
           <mxGeometry x="1031" y="60" width="120" height="110" as="geometry" />

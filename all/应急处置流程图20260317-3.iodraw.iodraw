@@ -85,8 +85,8 @@
         <mxCell id="G9bafkq5CbsU2aFMCbta-18" value="&lt;font size=&quot;3&quot;&gt;实施先期处置&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;（防止事态扩大）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-1">
           <mxGeometry x="870" y="85" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是否上报人民银行&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-1">
-          <mxGeometry x="1080" y="60" width="120" height="110" as="geometry" />
+        <mxCell id="G9bafkq5CbsU2aFMCbta-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是否需要上报&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;人民银行&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-1">
+          <mxGeometry x="1061" y="60" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

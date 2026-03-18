@@ -57,6 +57,9 @@
         <mxCell id="2qAVs81cvDaoODIYUo_c-13" value="分级响应处置" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
           <mxGeometry x="201" y="230.005" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2qAVs81cvDaoODIYUo_c-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RsV4TWUMmAseESsbG_XK-92" source="2qAVs81cvDaoODIYUo_c-15" target="2qAVs81cvDaoODIYUo_c-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2qAVs81cvDaoODIYUo_c-15" value="分类处置" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
           <mxGeometry x="401" y="230.005" width="120" height="60" as="geometry" />
         </mxCell>

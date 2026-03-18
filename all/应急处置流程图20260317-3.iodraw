@@ -48,8 +48,14 @@
         <mxCell id="2qAVs81cvDaoODIYUo_c-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;事件级别判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
           <mxGeometry x="973" y="22.744999999999997" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2qAVs81cvDaoODIYUo_c-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RsV4TWUMmAseESsbG_XK-92" source="2qAVs81cvDaoODIYUo_c-13" target="2qAVs81cvDaoODIYUo_c-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2qAVs81cvDaoODIYUo_c-13" value="分级响应处置" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
           <mxGeometry x="201" y="230.005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2qAVs81cvDaoODIYUo_c-15" value="" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
+          <mxGeometry x="401" y="230.005" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-105" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="-1040" width="1220" height="230" as="geometry" />

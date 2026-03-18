@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="3genP55ULLOPeEfUz3hM">
-    <mxGraphModel dx="1194" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2171" dy="2378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,16 +25,6 @@
               <mxPoint x="1092" y="140" />
               <mxPoint x="2485.0299999999997" y="259.52999999999986" />
               <mxPoint x="1925.03" y="218.52999999999986" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RsV4TWUMmAseESsbG_XK-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;fontStyle=0;labelBackgroundColor=none;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jVhdkVKSgpZ5CUa_RyKW-12" target="pnnerm1Xjht20mZpmRrQ-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="-620" as="targetPoint" />
-            <mxPoint x="232" y="843" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="210" y="431" />
-              <mxPoint x="210" y="-935" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -236,26 +226,6 @@
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-105" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="-1040" width="1220" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="RsV4TWUMmAseESsbG_XK-54" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=14;fontStyle=0;labelBackgroundColor=none;rounded=1;arcSize=0;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
-          <mxGeometry x="965" y="80" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RsV4TWUMmAseESsbG_XK-25" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=14;fontStyle=0;labelBackgroundColor=none;rounded=1;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
-          <mxGeometry x="835" y="170" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pnnerm1Xjht20mZpmRrQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-105" source="pnnerm1Xjht20mZpmRrQ-3" target="pnnerm1Xjht20mZpmRrQ-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pnnerm1Xjht20mZpmRrQ-3" value="及时发现数据异常情况" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
-          <mxGeometry x="162" y="63.5" width="230" height="83.63" as="geometry" />
-        </mxCell>
-        <mxCell id="pnnerm1Xjht20mZpmRrQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-105" source="pnnerm1Xjht20mZpmRrQ-4" target="pnnerm1Xjht20mZpmRrQ-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="736" y="105.31500000000005" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pnnerm1Xjht20mZpmRrQ-4" value="快速研判事件，初步判断事件级别" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
-          <mxGeometry x="461" y="63.5" width="230" height="83.63" as="geometry" />
         </mxCell>
         <mxCell id="pnnerm1Xjht20mZpmRrQ-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;是否为&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;较大&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据安全事件&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
           <mxGeometry x="785" y="40" width="180" height="130" as="geometry" />

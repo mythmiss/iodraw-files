@@ -133,8 +133,8 @@
         <mxCell id="G9bafkq5CbsU2aFMCbta-53" value="&lt;font size=&quot;3&quot;&gt;动态跟踪续报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="160" y="225" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-54" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否需要&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;调整级别&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-380" width="120" height="110" as="geometry" />
+        <mxCell id="G9bafkq5CbsU2aFMCbta-54" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否满足应急终止条件&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
+          <mxGeometry x="410" y="225" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

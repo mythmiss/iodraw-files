@@ -233,8 +233,8 @@
         <mxCell id="2qAVs81cvDaoODIYUo_c-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;成立应急指挥部&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
           <mxGeometry x="428" y="22.75" width="212" height="83.63" as="geometry" />
         </mxCell>
-        <mxCell id="2qAVs81cvDaoODIYUo_c-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;事件初报&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（1小时内报送）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
-          <mxGeometry x="720" y="22.75" width="212" height="83.63" as="geometry" />
+        <mxCell id="2qAVs81cvDaoODIYUo_c-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;事件初报&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（重大事件1小时内报送）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
+          <mxGeometry x="701" y="22.75" width="212" height="83.63" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-105" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="-1040" width="1220" height="230" as="geometry" />

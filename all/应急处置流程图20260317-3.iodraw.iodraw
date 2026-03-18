@@ -183,7 +183,12 @@
           <mxGeometry x="1010" y="195" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="G9bafkq5CbsU2aFMCbta-37" source="G9bafkq5CbsU2aFMCbta-54" target="G9bafkq5CbsU2aFMCbta-51">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="345" />
+              <mxPoint x="770" y="225" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-54" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否满足应急终止条件&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="830.5" y="290" width="120" height="110" as="geometry" />
@@ -202,6 +207,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G9bafkq5CbsU2aFMCbta-35" target="G9bafkq5CbsU2aFMCbta-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G9bafkq5CbsU2aFMCbta-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9bafkq5CbsU2aFMCbta-54" target="G9bafkq5CbsU2aFMCbta-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

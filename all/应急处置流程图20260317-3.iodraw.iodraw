@@ -8,7 +8,7 @@
           <mxGeometry x="279" y="-1120" width="822" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-91" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="80" y="19" width="1221" height="220" as="geometry" />
+          <mxGeometry x="80" y="10" width="1221" height="220" as="geometry" />
         </mxCell>
         <mxCell id="DY06nIC7OGulTYaxtaCC-5" value="事件总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-91" vertex="1">
           <mxGeometry x="20" y="10" width="35" height="200" as="geometry" />

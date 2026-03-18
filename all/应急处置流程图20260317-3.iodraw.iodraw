@@ -16,13 +16,13 @@
         <mxCell id="G9bafkq5CbsU2aFMCbta-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RsV4TWUMmAseESsbG_XK-91" source="G9bafkq5CbsU2aFMCbta-55" target="G9bafkq5CbsU2aFMCbta-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-55" value="&lt;font size=&quot;3&quot;&gt;事件调查评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-91">
+        <mxCell id="G9bafkq5CbsU2aFMCbta-55" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;事件调查评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-91">
           <mxGeometry x="133" y="85" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RsV4TWUMmAseESsbG_XK-91" source="G9bafkq5CbsU2aFMCbta-56" target="G9bafkq5CbsU2aFMCbta-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-56" value="&lt;font size=&quot;3&quot;&gt;报送总结报告&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-91">
+        <mxCell id="G9bafkq5CbsU2aFMCbta-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;报送总结报告&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-91">
           <mxGeometry x="354" y="85" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RsV4TWUMmAseESsbG_XK-91" source="G9bafkq5CbsU2aFMCbta-58" target="G9bafkq5CbsU2aFMCbta-60">
@@ -157,7 +157,7 @@
         <mxCell id="G9bafkq5CbsU2aFMCbta-51" value="&lt;font size=&quot;3&quot;&gt;分类处置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="1042" y="85" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-53" value="&lt;font size=&quot;3&quot;&gt;动态跟踪续报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
+        <mxCell id="G9bafkq5CbsU2aFMCbta-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;动态跟踪续报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="160" y="225" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-54" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否满足应急终止条件&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">

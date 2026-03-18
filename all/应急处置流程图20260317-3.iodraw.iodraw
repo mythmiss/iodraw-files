@@ -83,9 +83,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-18" value="&lt;font size=&quot;3&quot;&gt;实施先期处置&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;（防止事态扩大）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-1">
-          <mxGeometry x="891" y="85" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="85" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-1">
+        <mxCell id="G9bafkq5CbsU2aFMCbta-20" value="是否上报人民银行" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-1">
           <mxGeometry x="1111" y="75" width="80" height="80" as="geometry" />
         </mxCell>
       </root>

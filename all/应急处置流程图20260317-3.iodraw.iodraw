@@ -14,7 +14,7 @@
           <mxGeometry x="20" y="138.5" width="35" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-92" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="79" y="-400" width="1221" height="510" as="geometry" />
+          <mxGeometry x="79" y="-520" width="1221" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DY06nIC7OGulTYaxtaCC-4" value="事件响应" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-92" vertex="1">
           <mxGeometry x="20" y="313" width="35" height="160" as="geometry" />

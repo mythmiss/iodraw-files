@@ -149,16 +149,11 @@
         <mxCell id="G9bafkq5CbsU2aFMCbta-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;事件级别研判&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="261" y="85" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G9bafkq5CbsU2aFMCbta-37" target="G9bafkq5CbsU2aFMCbta-46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="551" y="115" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G9bafkq5CbsU2aFMCbta-37" source="G9bafkq5CbsU2aFMCbta-46" target="G9bafkq5CbsU2aFMCbta-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;成立应急指挥部&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
-          <mxGeometry x="611" y="85" width="150" height="60" as="geometry" />
+          <mxGeometry x="440" y="85" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G9bafkq5CbsU2aFMCbta-37" source="G9bafkq5CbsU2aFMCbta-48">
           <mxGeometry relative="1" as="geometry">
@@ -166,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分级响应处置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
-          <mxGeometry x="821" y="85" width="141" height="60" as="geometry" />
+          <mxGeometry x="630" y="85" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是否需要&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;调整级别&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="940" y="190" width="120" height="110" as="geometry" />

@@ -137,7 +137,7 @@
         <mxCell id="G9bafkq5CbsU2aFMCbta-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G9bafkq5CbsU2aFMCbta-37" source="G9bafkq5CbsU2aFMCbta-46" target="G9bafkq5CbsU2aFMCbta-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-46" value="&lt;font size=&quot;3&quot;&gt;成立应急指挥部&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
+        <mxCell id="G9bafkq5CbsU2aFMCbta-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;成立应急指挥部&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="611" y="85" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G9bafkq5CbsU2aFMCbta-37" source="G9bafkq5CbsU2aFMCbta-48">
@@ -148,13 +148,13 @@
         <mxCell id="G9bafkq5CbsU2aFMCbta-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G9bafkq5CbsU2aFMCbta-37" source="G9bafkq5CbsU2aFMCbta-48" target="G9bafkq5CbsU2aFMCbta-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-48" value="&lt;font size=&quot;3&quot;&gt;分级响应处置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
+        <mxCell id="G9bafkq5CbsU2aFMCbta-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分级响应处置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="821" y="85" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否需要&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;调整级别&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="430" y="60" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-51" value="&lt;font size=&quot;3&quot;&gt;分类处置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
+        <mxCell id="G9bafkq5CbsU2aFMCbta-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分类处置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="1042" y="85" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;动态跟踪续报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">

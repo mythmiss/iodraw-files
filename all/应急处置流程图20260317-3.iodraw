@@ -28,16 +28,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RsV4TWUMmAseESsbG_XK-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;fontStyle=0;labelBackgroundColor=none;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jVhdkVKSgpZ5CUa_RyKW-12" target="pnnerm1Xjht20mZpmRrQ-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="-620" as="targetPoint" />
-            <mxPoint x="232" y="843" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="210" y="431" />
-              <mxPoint x="210" y="-935" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-91" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="135" width="1221" height="450" as="geometry" />
         </mxCell>
@@ -76,7 +66,7 @@
         <mxCell id="jVhdkVKSgpZ5CUa_RyKW-20" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=14;fontStyle=0;labelBackgroundColor=none;rounded=1;arcSize=8;" parent="RsV4TWUMmAseESsbG_XK-91" vertex="1">
           <mxGeometry x="246" y="218" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DY06nIC7OGulTYaxtaCC-5" value="事件总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-91" vertex="1">
+        <mxCell id="DY06nIC7OGulTYaxtaCC-5" value="后期处置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-91" vertex="1">
           <mxGeometry x="20" y="138.5" width="35" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-92" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
@@ -220,7 +210,7 @@
         <mxCell id="jVhdkVKSgpZ5CUa_RyKW-4" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=14;fontStyle=0;labelBackgroundColor=none;rounded=1;" parent="RsV4TWUMmAseESsbG_XK-92" vertex="1">
           <mxGeometry x="252.5" y="750" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DY06nIC7OGulTYaxtaCC-4" value="事件响应" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-92" vertex="1">
+        <mxCell id="DY06nIC7OGulTYaxtaCC-4" value="应急处置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-92" vertex="1">
           <mxGeometry x="20" y="313" width="35" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4YXt9XvEXqtsOuE-A0Xu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-92" source="IduDyiMdftm-RnpvqKIm-3" target="Erox3AAgmCAtqzrw72V9-49" edge="1">

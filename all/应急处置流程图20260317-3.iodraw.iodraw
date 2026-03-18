@@ -73,6 +73,9 @@
         <mxCell id="G9bafkq5CbsU2aFMCbta-9" value="&lt;font size=&quot;3&quot;&gt;是否数据&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;安全事件&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-105">
           <mxGeometry x="940" y="52.5" width="120" height="125" as="geometry" />
         </mxCell>
+        <mxCell id="G9bafkq5CbsU2aFMCbta-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-105">
+          <mxGeometry x="90" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-23" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="80" y="-770" width="1220" height="300" as="geometry" />
         </mxCell>

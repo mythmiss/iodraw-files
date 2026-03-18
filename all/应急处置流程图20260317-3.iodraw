@@ -66,8 +66,14 @@
         <mxCell id="2qAVs81cvDaoODIYUo_c-24" value="是否需要调整事件级别" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
           <mxGeometry x="648" y="349.995" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2qAVs81cvDaoODIYUo_c-26" value="" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
+        <mxCell id="2qAVs81cvDaoODIYUo_c-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RsV4TWUMmAseESsbG_XK-92" source="2qAVs81cvDaoODIYUo_c-26" target="2qAVs81cvDaoODIYUo_c-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2qAVs81cvDaoODIYUo_c-26" value="处置进展报告" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
           <mxGeometry x="428" y="499.995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2qAVs81cvDaoODIYUo_c-28" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
+          <mxGeometry x="648" y="489.995" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-105" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="-1040" width="1220" height="230" as="geometry" />

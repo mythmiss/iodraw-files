@@ -227,8 +227,14 @@
         <mxCell id="IduDyiMdftm-RnpvqKIm-3" value="及时研判事件级别，按需调整响应级别" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-92" vertex="1">
           <mxGeometry x="164" y="540" width="250" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2qAVs81cvDaoODIYUo_c-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RsV4TWUMmAseESsbG_XK-92" source="2qAVs81cvDaoODIYUo_c-6" target="2qAVs81cvDaoODIYUo_c-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2qAVs81cvDaoODIYUo_c-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;成立应急指挥部&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
           <mxGeometry x="428" y="22.75" width="212" height="83.63" as="geometry" />
+        </mxCell>
+        <mxCell id="2qAVs81cvDaoODIYUo_c-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;成立应急指挥部&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-92">
+          <mxGeometry x="720" y="22.75" width="212" height="83.63" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-105" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="-1040" width="1220" height="230" as="geometry" />

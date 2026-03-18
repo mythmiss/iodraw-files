@@ -121,6 +121,9 @@
         <mxCell id="DY06nIC7OGulTYaxtaCC-1" value="&lt;p style=&quot;line-height: 120%; font-size: 20px;&quot;&gt;监测预警&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
           <mxGeometry x="20" y="35" width="35" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="2qAVs81cvDaoODIYUo_c-30" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -253,11 +253,6 @@
         <mxCell id="DY06nIC7OGulTYaxtaCC-1" value="&lt;p style=&quot;line-height: 120%; font-size: 20px;&quot;&gt;监测预警&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
           <mxGeometry x="20" y="35" width="35" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="pnnerm1Xjht20mZpmRrQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="pnnerm1Xjht20mZpmRrQ-6" target="pnnerm1Xjht20mZpmRrQ-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1030" y="-605.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jVhdkVKSgpZ5CUa_RyKW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="Erox3AAgmCAtqzrw72V9-50" target="jVhdkVKSgpZ5CUa_RyKW-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>

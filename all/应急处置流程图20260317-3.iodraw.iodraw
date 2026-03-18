@@ -13,6 +13,9 @@
         <mxCell id="DY06nIC7OGulTYaxtaCC-5" value="事件总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-91" vertex="1">
           <mxGeometry x="20" y="138.5" width="35" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="G9bafkq5CbsU2aFMCbta-55" value="&lt;font size=&quot;3&quot;&gt;事件调查评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsV4TWUMmAseESsbG_XK-91">
+          <mxGeometry x="133" y="85" width="141" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-105" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="-1040" width="1220" height="250" as="geometry" />
         </mxCell>
@@ -135,9 +138,6 @@
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-54" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否满足应急终止条件&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="G9bafkq5CbsU2aFMCbta-37">
           <mxGeometry x="410" y="225" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-55" value="&lt;font size=&quot;3&quot;&gt;动态跟踪续报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-215" width="141" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

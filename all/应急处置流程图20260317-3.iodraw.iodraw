@@ -10,51 +10,20 @@
         <mxCell id="RsV4TWUMmAseESsbG_XK-91" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="135" width="1221" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="jVhdkVKSgpZ5CUa_RyKW-7" value="查明事件原因，明确责任" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-91" vertex="1">
-          <mxGeometry x="182" y="31.5" width="210" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="jVhdkVKSgpZ5CUa_RyKW-12" value="开展事件总结" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-91" vertex="1">
-          <mxGeometry x="152" y="263" width="270" height="65" as="geometry" />
-        </mxCell>
         <mxCell id="DY06nIC7OGulTYaxtaCC-5" value="事件总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-91" vertex="1">
           <mxGeometry x="20" y="138.5" width="35" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-92" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="79" y="-780" width="1221" height="890" as="geometry" />
         </mxCell>
-        <mxCell id="Erox3AAgmCAtqzrw72V9-50" value="结束Ⅰ级或Ⅱ级事件应急响应" style="whiteSpace=wrap;html=1;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-92" vertex="1">
-          <mxGeometry x="162.25" y="791.25" width="252.75" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pnnerm1Xjht20mZpmRrQ-11" value="结束Ⅳ级事件应急响应" style="whiteSpace=wrap;html=1;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-92" vertex="1">
-          <mxGeometry x="894.5" y="630" width="237" height="73.75" as="geometry" />
-        </mxCell>
         <mxCell id="DY06nIC7OGulTYaxtaCC-4" value="事件响应" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-92" vertex="1">
           <mxGeometry x="20" y="313" width="35" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="IduDyiMdftm-RnpvqKIm-3" value="及时研判事件级别，按需调整响应级别" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="RsV4TWUMmAseESsbG_XK-92" vertex="1">
-          <mxGeometry x="164" y="540" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-105" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="-1040" width="1220" height="230" as="geometry" />
         </mxCell>
         <mxCell id="DY06nIC7OGulTYaxtaCC-1" value="&lt;p style=&quot;line-height: 120%; font-size: 20px;&quot;&gt;事件发现&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
           <mxGeometry x="20" y="35" width="35" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="pnnerm1Xjht20mZpmRrQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1092" y="-613.25" as="targetPoint" />
-            <mxPoint x="1045" y="-935" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jVhdkVKSgpZ5CUa_RyKW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="955" y="-840" />
-              <mxPoint x="368" y="-840" />
-            </Array>
-            <mxPoint x="955" y="-870" as="sourcePoint" />
-            <mxPoint x="368" y="-757.25" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

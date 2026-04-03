@@ -38,7 +38,7 @@
           <mxGeometry x="900" y="75" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RsV4TWUMmAseESsbG_XK-105" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=70;fontSize=19;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="80" y="-1040" width="1220" height="250" as="geometry" />
+          <mxGeometry x="80" y="-1040" width="1080" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DY06nIC7OGulTYaxtaCC-1" value="&lt;p style=&quot;line-height: 120%; font-size: 19px;&quot;&gt;事件发现&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeColor=none;" parent="RsV4TWUMmAseESsbG_XK-105" vertex="1">
           <mxGeometry x="20" y="35" width="35" height="160" as="geometry" />

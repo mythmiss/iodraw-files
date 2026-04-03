@@ -210,8 +210,8 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9bafkq5CbsU2aFMCbta-54" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;是否满足应急终止条件&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=19;" parent="G9bafkq5CbsU2aFMCbta-37" vertex="1">
-          <mxGeometry x="830.5" y="450" width="120" height="110" as="geometry" />
+        <mxCell id="G9bafkq5CbsU2aFMCbta-54" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;是否满足应急&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;终止条件&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=19;" parent="G9bafkq5CbsU2aFMCbta-37" vertex="1">
+          <mxGeometry x="800" y="450" width="150.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="G9bafkq5CbsU2aFMCbta-9" target="G9bafkq5CbsU2aFMCbta-26" edge="1">
           <mxGeometry relative="1" as="geometry">

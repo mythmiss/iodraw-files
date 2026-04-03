@@ -194,7 +194,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-51" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;分类处置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" parent="G9bafkq5CbsU2aFMCbta-37" vertex="1">
-          <mxGeometry x="820" y="200" width="141" height="60" as="geometry" />
+          <mxGeometry x="820" y="290" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-53" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;动态跟踪续报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" parent="G9bafkq5CbsU2aFMCbta-37" vertex="1">
           <mxGeometry x="600" y="200" width="141" height="60" as="geometry" />

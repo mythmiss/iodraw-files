@@ -120,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实施先期处置&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（防止事态扩大）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" parent="G9bafkq5CbsU2aFMCbta-23" vertex="1">
-          <mxGeometry x="821" y="70" width="141" height="90" as="geometry" />
+          <mxGeometry x="800" y="70" width="162" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontStyle=1" parent="G9bafkq5CbsU2aFMCbta-23" source="G9bafkq5CbsU2aFMCbta-35" target="G9bafkq5CbsU2aFMCbta-100" edge="1">
           <mxGeometry relative="1" as="geometry" />

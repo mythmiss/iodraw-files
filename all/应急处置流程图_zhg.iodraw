@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-56" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;报送调查报告&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" parent="RsV4TWUMmAseESsbG_XK-91" vertex="1">
-          <mxGeometry x="354" y="85" width="141" height="60" as="geometry" />
+          <mxGeometry x="310" y="85" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9bafkq5CbsU2aFMCbta-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" parent="RsV4TWUMmAseESsbG_XK-91" source="G9bafkq5CbsU2aFMCbta-58" target="G9bafkq5CbsU2aFMCbta-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
